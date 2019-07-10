@@ -1,0 +1,19 @@
+{
+	// See http://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		"dennismaxjung.vscode-dotnet-auto-attach",
+		"donjayamanne.githistory",
+		"eamodio.gitlens",
+		"editorconfig.editorconfig",
+		"formulahendry.code-runner",
+		"kishoreithadi.dotnet-core-essentials",
+		"leopotam.csharpfixformat",
+		"ms-vscode.csharp",
+		"visualstudioexptteam.vscodeintellicode",
+		"vscode-icons-team.vscode-icons"
+	],
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": []
+}
